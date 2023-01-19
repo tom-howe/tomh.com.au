@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dev styles */
+html * {
+  outline: red dotted 1px;
+}
